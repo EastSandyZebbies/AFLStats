@@ -1,0 +1,570 @@
+{
+  "players": [
+    {
+      "id": "17777759506480.5082022359632777",
+      "number": "1",
+      "name": "Noah Jackson"
+    },
+    {
+      "id": "17777759506480.32114386898912717",
+      "number": "3",
+      "name": "Jack Gleeson"
+    },
+    {
+      "id": "17777759506480.989597482238926",
+      "number": "4",
+      "name": "Nate Dooley"
+    },
+    {
+      "id": "17777759506480.6659395696248108",
+      "number": "7",
+      "name": "Patrick Whelan"
+    },
+    {
+      "id": "17777759506480.12377837779926615",
+      "number": "8",
+      "name": "Tom Buck"
+    },
+    {
+      "id": "17777759506480.4918516835515907",
+      "number": "9",
+      "name": "Max Bahramis"
+    },
+    {
+      "id": "17777759506480.27801312083101903",
+      "number": "10",
+      "name": "Lewis Brauer"
+    },
+    {
+      "id": "17777759506480.9781375267238763",
+      "number": "11",
+      "name": "Jake Crooks"
+    },
+    {
+      "id": "17777759506480.9307777549906513",
+      "number": "12",
+      "name": "Michael Daly"
+    },
+    {
+      "id": "17777759506480.24864956051033837",
+      "number": "13",
+      "name": "Ari Gauldin"
+    },
+    {
+      "id": "17777759506480.872916749837853",
+      "number": "14",
+      "name": "Xavier McCabe"
+    },
+    {
+      "id": "17777759506480.38053891124791084",
+      "number": "15",
+      "name": "Gill Davron"
+    },
+    {
+      "id": "17777759506480.901099605592782",
+      "number": "16",
+      "name": "Oliver Cowan"
+    },
+    {
+      "id": "17777759506480.6374156614511336",
+      "number": "17",
+      "name": "Raphael Knight"
+    },
+    {
+      "id": "17777759506480.15522287379614486",
+      "number": "18",
+      "name": "Jake Lansdown"
+    },
+    {
+      "id": "17777759506480.20333225350412232",
+      "number": "19",
+      "name": "Morris Finch"
+    },
+    {
+      "id": "17777759506480.6580832729364764",
+      "number": "22",
+      "name": "Fin Buttlin"
+    },
+    {
+      "id": "17777759506480.22123042294747297",
+      "number": "23",
+      "name": "Ashton Fletcher"
+    },
+    {
+      "id": "17777759506480.1972750939203154",
+      "number": "24",
+      "name": "Lachlan Luckoff"
+    },
+    {
+      "id": "17777759506480.2571649886513061",
+      "number": "25",
+      "name": "Aidan Lynch"
+    },
+    {
+      "id": "17777759506480.7249902236152644",
+      "number": "29",
+      "name": "Hudson Schmidt"
+    }
+  ],
+  "matches": [
+    {
+      "id": 1777778782185,
+      "round": "1",
+      "opposition": "Brighton Beach",
+      "date": "2026-04-19",
+      "locked": false,
+      "ourG": 5,
+      "ourB": 14,
+      "oppG": 6,
+      "oppB": 5,
+      "stats": {
+        "clearances": 0,
+        "handballs": 0,
+        "tackles": 0
+      },
+      "quarters": {
+        "Q1": {
+          "ourGoals": [
+            {
+              "id": 1777875364274.1428,
+              "playerId": "17777759506480.5082022359632777"
+            },
+            {
+              "id": 1777875364274.4768,
+              "playerId": "17777759506480.989597482238926"
+            }
+          ],
+          "ourBehinds": [
+            {
+              "id": 1777875364274.528,
+              "playerId": "17777759506480.12377837779926615"
+            },
+            {
+              "id": 1777875364274.7,
+              "playerId": "17777759506480.989597482238926"
+            },
+            {
+              "id": 1777875364274.2603,
+              "playerId": "17777759506480.6374156614511336"
+            },
+            {
+              "id": 1777875364274.7043,
+              "playerId": "17777759506480.9781375267238763"
+            },
+            {
+              "id": 1777875364274.9692,
+              "playerId": "17777759506480.2571649886513061"
+            }
+          ],
+          "oppGoals": 1,
+          "oppBehinds": 2
+        },
+        "Q2": {
+          "ourGoals": [
+            {
+              "id": 1777875364274.4216,
+              "playerId": "17777759506480.6580832729364764"
+            }
+          ],
+          "ourBehinds": [
+            {
+              "id": 1777875364274.9414,
+              "playerId": "17777759506480.6659395696248108"
+            },
+            {
+              "id": 1777875364274.2668,
+              "playerId": "17777759506480.4918516835515907"
+            },
+            {
+              "id": 1777875364274.1064,
+              "playerId": "17777759506480.22123042294747297"
+            },
+            {
+              "id": 1777875364274.8,
+              "playerId": "17777759506480.20333225350412232"
+            }
+          ],
+          "oppGoals": 2,
+          "oppBehinds": 1
+        },
+        "Q3": {
+          "ourGoals": [],
+          "ourBehinds": [
+            {
+              "id": 1777875364274.58,
+              "playerId": "17777759506480.20333225350412232"
+            },
+            {
+              "id": 1777875364274.7004,
+              "playerId": "17777759506480.989597482238926"
+            },
+            {
+              "id": 1777875364274.6736,
+              "playerId": "17777759506480.32114386898912717"
+            }
+          ],
+          "oppGoals": 0,
+          "oppBehinds": 2
+        },
+        "Q4": {
+          "ourGoals": [
+            {
+              "id": 1777875364274.7522,
+              "playerId": "17777759506480.5082022359632777"
+            },
+            {
+              "id": 1777875364274.6584,
+              "playerId": "17777759506480.20333225350412232"
+            }
+          ],
+          "ourBehinds": [
+            {
+              "id": 1777875364274.9531,
+              "playerId": "17777759506480.6659395696248108"
+            },
+            {
+              "id": 1777875364274.2405,
+              "playerId": "17777759506480.5082022359632777"
+            }
+          ],
+          "oppGoals": 3,
+          "oppBehinds": 0
+        }
+      },
+      "playersOfMatch": [],
+      "narrative": "The Zebbies squeezed past Brighton Beach in a nail-biting opener, with Noah Jackson's two-goal haul leading the way and Nate Dooley and Fin Buttlin chipping in crucial majors. Despite struggling in the contested work with zero clearances compared to their usual five per game, the boys made their forward entries count when it mattered most. A thrilling three-point victory to kick off the season!"
+    },
+    {
+      "id": 1777775688085,
+      "round": "2",
+      "opposition": "Mordi-Brae",
+      "date": "2026-04-26",
+      "locked": false,
+      "ourG": 5,
+      "ourB": 13,
+      "oppG": 3,
+      "oppB": 0,
+      "stats": {
+        "clearances": 0,
+        "handballs": 0,
+        "tackles": 0
+      },
+      "quarters": {
+        "Q1": {
+          "ourGoals": [
+            {
+              "playerId": "17777759506480.5082022359632777",
+              "time": 1777778047160
+            }
+          ],
+          "ourBehinds": [
+            {
+              "playerId": "17777759506480.4918516835515907",
+              "time": 1777778048412
+            },
+            {
+              "playerId": "17777759506480.12377837779926615",
+              "time": 1777778049431
+            },
+            {
+              "playerId": "17777759506480.989597482238926",
+              "time": 1777778050228
+            }
+          ],
+          "oppGoals": 1,
+          "oppBehinds": 0
+        },
+        "Q2": {
+          "ourGoals": [
+            {
+              "playerId": "17777759506480.12377837779926615",
+              "time": 1777778059803
+            },
+            {
+              "playerId": "17777759506480.38053891124791084",
+              "time": 1777778061544
+            }
+          ],
+          "ourBehinds": [
+            {
+              "playerId": "17777759506480.901099605592782",
+              "time": 1777778062953
+            },
+            {
+              "playerId": "17777759506480.27801312083101903",
+              "time": 1777778063990
+            },
+            {
+              "playerId": "17777759506480.6374156614511336",
+              "time": 1777778067385
+            }
+          ],
+          "oppGoals": 0,
+          "oppBehinds": 0
+        },
+        "Q3": {
+          "ourGoals": [
+            {
+              "playerId": "17777759506480.5082022359632777",
+              "time": 1777778078695
+            }
+          ],
+          "ourBehinds": [
+            {
+              "playerId": "17777759506480.5082022359632777",
+              "time": 1777778080345
+            },
+            {
+              "playerId": "17777759506480.4918516835515907",
+              "time": 1777778085738
+            },
+            {
+              "playerId": "17777759506480.22123042294747297",
+              "time": 1777778087475
+            },
+            {
+              "playerId": "17777759506480.6580832729364764",
+              "time": 1777778089023
+            }
+          ],
+          "oppGoals": 1,
+          "oppBehinds": 0
+        },
+        "Q4": {
+          "ourGoals": [
+            {
+              "playerId": "17777759506480.20333225350412232",
+              "time": 1777778121112
+            }
+          ],
+          "ourBehinds": [
+            {
+              "playerId": "17777759506480.7249902236152644",
+              "time": 1777778132822
+            },
+            {
+              "playerId": "17777759506480.15522287379614486",
+              "time": 1777778135877
+            },
+            {
+              "playerId": "17777759506480.4918516835515907",
+              "time": 1777778137150
+            }
+          ],
+          "oppGoals": 1,
+          "oppBehinds": 0
+        }
+      },
+      "playersOfMatch": [
+        "17777759506480.15522287379614486",
+        "17777759506480.2571649886513061"
+      ],
+      "narrative": "The Zebbies kicked clear for a solid 25-point victory over Mordi-Brae, with Noah Jackson snagging two goals and Tom Buck and Gill Davron each contributing majors in the 5.13 (43) to 3.0 (18) win. Jake Lansdown and Aidan Lynch were instrumental in the triumph, stepping up when it mattered most. A terrific team effort that sets up Round 3 perfectly!"
+    },
+    {
+      "id": 1777778194885,
+      "round": "3",
+      "opposition": "Prahran JFC",
+      "date": "2026-05-03",
+      "locked": false,
+      "ourG": 7,
+      "ourB": 6,
+      "oppG": 5,
+      "oppB": 5,
+      "stats": {
+        "clearances": 9,
+        "handballs": 24,
+        "tackles": 14
+      },
+      "quarters": {
+        "Q1": {
+          "ourGoals": [
+            {
+              "playerId": "17777759506480.32114386898912717",
+              "time": 1777778280495
+            }
+          ],
+          "ourBehinds": [],
+          "oppGoals": 0,
+          "oppBehinds": 1
+        },
+        "Q2": {
+          "ourGoals": [],
+          "ourBehinds": [
+            {
+              "playerId": "17777759506480.20333225350412232",
+              "time": 1777778341415
+            }
+          ],
+          "oppGoals": 1,
+          "oppBehinds": 2
+        },
+        "Q3": {
+          "ourGoals": [
+            {
+              "playerId": "17777759506480.20333225350412232",
+              "time": 1777778384316
+            }
+          ],
+          "ourBehinds": [
+            {
+              "playerId": "17777759506480.24864956051033837",
+              "time": 1777778404220
+            },
+            {
+              "playerId": "17777759506480.20333225350412232",
+              "time": 1777778420404
+            }
+          ],
+          "oppGoals": 4,
+          "oppBehinds": 2
+        },
+        "Q4": {
+          "ourGoals": [
+            {
+              "playerId": "17777759506480.32114386898912717",
+              "time": 1777778495794
+            },
+            {
+              "playerId": "17777759506480.989597482238926",
+              "time": 1777778561416
+            },
+            {
+              "playerId": "17777759506480.872916749837853",
+              "time": 1777778573403
+            },
+            {
+              "playerId": "17777759506480.15522287379614486",
+              "time": 1777778581311
+            },
+            {
+              "playerId": "17777759506480.20333225350412232",
+              "time": 1777778603763
+            }
+          ],
+          "ourBehinds": [
+            {
+              "playerId": "17777759506480.32114386898912717",
+              "time": 1777778498924
+            },
+            {
+              "playerId": "17777759506480.5082022359632777",
+              "time": 1777778550282
+            },
+            {
+              "playerId": "17777759506480.872916749837853",
+              "time": 1777778653327
+            }
+          ],
+          "oppGoals": 0,
+          "oppBehinds": 0
+        }
+      },
+      "playersOfMatch": [
+        "17777759506480.7249902236152644",
+        "17777759506480.989597482238926"
+      ],
+      "narrative": "The Zebbies secured a hard-fought 13-point victory over Prahran, with Hudson Schmidt and Nate Dooley leading the way as best on ground. Jack Gleeson and Morris Finch both snagged two goals apiece in the 48-35 win, while Dooley added another major to his outstanding performance. The team dominated the contested ball with 9 clearances and moved it beautifully by hand with 24 handballs received, laying 14 tackles to keep the pressure on throughout."
+    },
+    {
+      "id": 1777874227121,
+      "round": "4",
+      "opposition": "Beaumaris Great Whites",
+      "date": "2026-05-10",
+      "locked": false,
+      "ourG": 5,
+      "ourB": 6,
+      "oppG": 5,
+      "oppB": 5,
+      "stats": {
+        "clearances": 6,
+        "handballs": 12,
+        "tackles": 23
+      },
+      "quarters": {
+        "Q1": {
+          "ourGoals": [
+            {
+              "playerId": "17777759506480.6580832729364764",
+              "time": 1778383726808
+            }
+          ],
+          "ourBehinds": [
+            {
+              "playerId": "17777759506480.989597482238926",
+              "time": 1778383393668
+            },
+            {
+              "playerId": "17777759506480.22123042294747297",
+              "time": 1778384037874
+            }
+          ],
+          "oppGoals": 1,
+          "oppBehinds": 0
+        },
+        "Q2": {
+          "ourGoals": [],
+          "ourBehinds": [
+            {
+              "playerId": "17777759506480.5082022359632777",
+              "time": 1778384445318
+            }
+          ],
+          "oppGoals": 2,
+          "oppBehinds": 4
+        },
+        "Q3": {
+          "ourGoals": [
+            {
+              "playerId": "17777759506480.20333225350412232",
+              "time": 1778386576397
+            }
+          ],
+          "ourBehinds": [
+            {
+              "playerId": "17777759506480.22123042294747297",
+              "time": 1778385931725
+            }
+          ],
+          "oppGoals": 1,
+          "oppBehinds": 0
+        },
+        "Q4": {
+          "ourGoals": [
+            {
+              "playerId": "17777759506480.6580832729364764",
+              "time": 1778386904162
+            },
+            {
+              "playerId": "17777759506480.5082022359632777",
+              "time": 1778387239133
+            },
+            {
+              "playerId": "17777759506480.20333225350412232",
+              "time": 1778387391111
+            }
+          ],
+          "ourBehinds": [
+            {
+              "playerId": "17777759506480.9307777549906513",
+              "time": 1778387301094
+            },
+            {
+              "playerId": "17777759506480.20333225350412232",
+              "time": 1778387347841
+            }
+          ],
+          "oppGoals": 1,
+          "oppBehinds": 1
+        }
+      },
+      "playersOfMatch": [
+        "17777759506480.32114386898912717",
+        "17777759506480.5082022359632777"
+      ],
+      "narrative": "The Zebbies snatched a thrilling one-point victory over Beaumaris, with Jack Gleeson and Noah Jackson outstanding in the nail-biting finish. The team's defensive pressure was exceptional, recording 23 tackles—more than quadruple their season average—while doubling their usual clearance work with 6 for the match. Fin Buttlin and Morris Finch led the scoring with 2 goals each, while Jackson chipped in with a crucial major in the tightest of contests."
+    }
+  ],
+  "_syncedAt": "2026-05-15T01:59:05.146Z",
+  "_version": 2
+}
