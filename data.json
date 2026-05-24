@@ -673,8 +673,121 @@
         "17777759506480.7249902236152644"
       ],
       "narrative": "The Zebbies dominated St Peters with sustained pressure, racking up 32 tackles—more than triple our usual output—while our handball game clicked beautifully with 25 received compared to our season average of just 9. Jack Gleeson and Hudson Schmidt were exceptional in the 21-point victory, with Schmidt also finding the goals alongside Morris Finch's match-winning three-goal haul. Though we only managed one clearance, our intense defensive work and superior ball movement made all the difference."
+    },
+    {
+      "id": 1778989733001,
+      "round": "6",
+      "opposition": "Brighton Beach",
+      "date": "2026-05-24",
+      "locked": false,
+      "ourG": 9,
+      "ourB": 6,
+      "oppG": 6,
+      "oppB": 5,
+      "stats": {
+        "clearances": 20,
+        "handballs": 29,
+        "tackles": 38
+      },
+      "quarters": {
+        "Q1": {
+          "ourGoals": [
+            {
+              "playerId": "17777759506480.20333225350412232",
+              "time": 1779585652352
+            }
+          ],
+          "ourBehinds": [],
+          "oppGoals": 0,
+          "oppBehinds": 2
+        },
+        "Q2": {
+          "ourGoals": [
+            {
+              "playerId": "17777759506480.12377837779926615",
+              "time": 1779586591355
+            },
+            {
+              "playerId": "17777759506480.12377837779926615",
+              "time": 1779586839308
+            },
+            {
+              "playerId": "17777759506480.2571649886513061",
+              "time": 1779587235524
+            }
+          ],
+          "ourBehinds": [
+            {
+              "playerId": "17777759506480.20333225350412232",
+              "time": 1779587101750
+            },
+            {
+              "playerId": "17777759506480.2571649886513061",
+              "time": 1779587125673
+            },
+            {
+              "playerId": "17777759506480.7249902236152644",
+              "time": 1779587423109
+            },
+            {
+              "playerId": "17777759506480.7249902236152644",
+              "time": 1779587493540
+            }
+          ],
+          "oppGoals": 1,
+          "oppBehinds": 1
+        },
+        "Q3": {
+          "ourGoals": [
+            {
+              "playerId": "17777759506480.12377837779926615",
+              "time": 1779588926118
+            }
+          ],
+          "ourBehinds": [
+            {
+              "playerId": "17777759506480.872916749837853",
+              "time": 1779588322394
+            },
+            {
+              "playerId": "17777759506480.20333225350412232",
+              "time": 1779588983045
+            }
+          ],
+          "oppGoals": 2,
+          "oppBehinds": 0
+        },
+        "Q4": {
+          "ourGoals": [
+            {
+              "playerId": "17777759506480.4918516835515907",
+              "time": 1779589356506
+            },
+            {
+              "playerId": "17777759506480.12377837779926615",
+              "time": 1779589429087
+            },
+            {
+              "playerId": "17777759506480.12377837779926615",
+              "time": 1779589512318
+            },
+            {
+              "playerId": "17777759506480.12377837779926615",
+              "time": 1779590017389
+            }
+          ],
+          "ourBehinds": [],
+          "oppGoals": 3,
+          "oppBehinds": 2
+        }
+      },
+      "playersOfMatch": [
+        "17777759506480.6580832729364764",
+        "17777759506480.12377837779926615"
+      ],
+      "matchNotes": "Awesome pressure Jake smother on the wing\nTom buck Q2 run down tackle to goal \n\nAri to Jake to Noah on wing to paddy \n\n"
     }
   ],
-  "_syncedAt": "2026-05-24T02:41:42.018Z",
+  "_syncedAt": "2026-05-24T02:41:46.801Z",
   "_version": 2
 }
