@@ -787,8 +787,126 @@
       ],
       "matchNotes": "Awesome pressure Jake smother on the wing\nTom buck Q2 run down tackle to goal \n\nAri to Jake to Noah on wing to paddy \n\n",
       "narrative": "The Zebbies stormed past Brighton Beach with a commanding performance that saw them dominate at the contest, racking up 20 clearances compared to their season average of just 3, while Fin Buttlin led the way as tackles skyrocketed to 38 from a usual 14. Tom Buck was unstoppable up forward with 6 goals in a best-on-ground display, and the team's improved ball movement shone through with 29 handballs received—more than double their typical output."
+    },
+    {
+      "id": 1779590504799,
+      "round": "7",
+      "opposition": "East Brighton Vampires",
+      "date": "2026-05-31",
+      "locked": false,
+      "ourG": 8,
+      "ourB": 8,
+      "oppG": 4,
+      "oppB": 0,
+      "stats": {
+        "clearances": 17,
+        "handballs": 27,
+        "tackles": 37
+      },
+      "quarters": {
+        "Q1": {
+          "ourGoals": [
+            {
+              "playerId": "17777759506480.22123042294747297",
+              "time": 1780229204584
+            },
+            {
+              "playerId": "17777759506480.22123042294747297",
+              "time": 1780229206948
+            },
+            {
+              "playerId": "17777759506480.20333225350412232",
+              "time": 1780229215033
+            }
+          ],
+          "ourBehinds": [
+            {
+              "playerId": "17777759506480.38053891124791084",
+              "time": 1780229252931
+            },
+            {
+              "playerId": "17777759506480.9781375267238763",
+              "time": 1780229265119
+            },
+            {
+              "playerId": "17777759506480.12377837779926615",
+              "time": 1780229268034
+            },
+            {
+              "playerId": "17777759506480.872916749837853",
+              "time": 1780229280275
+            }
+          ],
+          "oppGoals": 0,
+          "oppBehinds": 0
+        },
+        "Q2": {
+          "ourGoals": [
+            {
+              "playerId": "17777759506480.27801312083101903",
+              "time": 1780229304037
+            }
+          ],
+          "ourBehinds": [
+            {
+              "playerId": "17777759506480.9781375267238763",
+              "time": 1780229312906
+            }
+          ],
+          "oppGoals": 2,
+          "oppBehinds": 0
+        },
+        "Q3": {
+          "ourGoals": [
+            {
+              "playerId": "17777759506480.20333225350412232",
+              "time": 1780229341544
+            },
+            {
+              "playerId": "17777759506480.22123042294747297",
+              "time": 1780229405818
+            }
+          ],
+          "ourBehinds": [],
+          "oppGoals": 2,
+          "oppBehinds": 0
+        },
+        "Q4": {
+          "ourGoals": [
+            {
+              "playerId": "17777759506480.9781375267238763",
+              "time": 1780229452834
+            },
+            {
+              "playerId": "17777759506480.22123042294747297",
+              "time": 1780229456134
+            }
+          ],
+          "ourBehinds": [
+            {
+              "playerId": "17777759506480.872916749837853",
+              "time": 1780229466050
+            },
+            {
+              "playerId": "17777759506480.12377837779926615",
+              "time": 1780229471419
+            },
+            {
+              "playerId": "17777759506480.27801312083101903",
+              "time": 1780229473451
+            }
+          ],
+          "oppGoals": 0,
+          "oppBehinds": 0
+        }
+      },
+      "playersOfMatch": [
+        "17777759506480.27801312083101903",
+        "17777759506480.6374156614511336"
+      ],
+      "matchNotes": ""
     }
   ],
-  "_syncedAt": "2026-05-31T12:29:49.000Z",
+  "_syncedAt": "2026-05-31T12:30:01.250Z",
   "_version": 2
 }
