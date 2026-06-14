@@ -906,8 +906,84 @@
       ],
       "matchNotes": "",
       "narrative": "The Zebbies dominated East Brighton with a commanding 32-point victory, powered by an exceptional midfield performance that saw clearances nearly triple from 6 to 17 and tackles double to 37. Ashton Fletcher led the goal-scoring charge with four majors, while Lewis Brauer and Raphael Knight were outstanding in the conditions, earning best-on-ground honours with their relentless work rate and smart ball use. With handballs received jumping from 15 to 27, the team's emphasis on sharing and supporting each other really paid dividends."
+    },
+    {
+      "id": 1780230599248,
+      "round": "8",
+      "opposition": "Port Colts",
+      "date": "2026-05-31",
+      "locked": false,
+      "ourG": 2,
+      "ourB": 4,
+      "oppG": 7,
+      "oppB": 8,
+      "stats": {
+        "clearances": 10,
+        "handballs": 21,
+        "tackles": 39
+      },
+      "quarters": {
+        "Q1": {
+          "ourGoals": [
+            {
+              "playerId": "17777759506480.9781375267238763",
+              "time": 1781403198389
+            }
+          ],
+          "ourBehinds": [],
+          "oppGoals": 1,
+          "oppBehinds": 2
+        },
+        "Q2": {
+          "ourGoals": [],
+          "ourBehinds": [
+            {
+              "playerId": "17777759506480.6580832729364764",
+              "time": 1781403226258
+            },
+            {
+              "playerId": "17777759506480.6659395696248108",
+              "time": 1781403232573
+            }
+          ],
+          "oppGoals": 1,
+          "oppBehinds": 1
+        },
+        "Q3": {
+          "ourGoals": [
+            {
+              "playerId": "17777759506480.6659395696248108",
+              "time": 1781403217395
+            }
+          ],
+          "ourBehinds": [
+            {
+              "playerId": "17777759506480.1972750939203154",
+              "time": 1781403413375
+            }
+          ],
+          "oppGoals": 2,
+          "oppBehinds": 1
+        },
+        "Q4": {
+          "ourGoals": [],
+          "ourBehinds": [
+            {
+              "playerId": "17777759506480.38053891124791084",
+              "time": 1781403242417
+            }
+          ],
+          "oppGoals": 3,
+          "oppBehinds": 4
+        }
+      },
+      "playersOfMatch": [
+        "17777759506480.989597482238926",
+        "17777759506480.6659395696248108"
+      ],
+      "matchNotes": ""
     }
   ],
-  "_syncedAt": "2026-06-14T02:17:17.735Z",
+  "_syncedAt": "2026-06-14T02:17:21.942Z",
   "_version": 2
 }
