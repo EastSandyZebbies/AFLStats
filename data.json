@@ -1128,8 +1128,171 @@
       ],
       "matchNotes": "",
       "narrative": "The Zebbies absolutely dominated Ajax with a commanding 70-point victory, fueled by an outstanding midfield performance that more than doubled our season average with 21 clearances. Max Bahramis and Tom Buck were instrumental in our best-of-the-match honors, while Noah Jackson led a potent forward line with three goals, supported by two each from Patrick Whelan and Ashton Fletcher. Our players were everywhere, recording 29 handballs received and 31 tackles to completely control the contest."
+    },
+    {
+      "id": 1782008339552,
+      "round": "10",
+      "opposition": "Mordi-Brae",
+      "date": "2026-06-28",
+      "locked": false,
+      "ourG": 14,
+      "ourB": 13,
+      "oppG": 6,
+      "oppB": 5,
+      "stats": {
+        "clearances": 16,
+        "handballs": 34,
+        "tackles": 21
+      },
+      "quarters": {
+        "Q1": {
+          "ourGoals": [
+            {
+              "playerId": "17777759506480.989597482238926",
+              "time": 1782615256330
+            },
+            {
+              "playerId": "17777759506480.22123042294747297",
+              "time": 1782615431633
+            }
+          ],
+          "ourBehinds": [
+            {
+              "playerId": "17777759506480.20333225350412232",
+              "time": 1782615363638
+            },
+            {
+              "playerId": "17777759506480.989597482238926",
+              "time": 1782615704792
+            },
+            {
+              "playerId": "17777759506480.20333225350412232",
+              "time": 1782615789394
+            },
+            {
+              "playerId": "17777759506480.20333225350412232",
+              "time": 1782616017440
+            },
+            {
+              "playerId": "17777759506480.22123042294747297",
+              "time": 1782616137227
+            }
+          ],
+          "oppGoals": 0,
+          "oppBehinds": 3
+        },
+        "Q2": {
+          "ourGoals": [
+            {
+              "playerId": "17777759506480.22123042294747297",
+              "time": 1782616510665
+            },
+            {
+              "playerId": "17777759506480.9781375267238763",
+              "time": 1782616659546
+            },
+            {
+              "playerId": "17777759506480.5082022359632777",
+              "time": 1782616729957
+            },
+            {
+              "playerId": "17777759506480.1972750939203154",
+              "time": 1782616869340
+            },
+            {
+              "playerId": "17777759506480.22123042294747297",
+              "time": 1782617086282
+            }
+          ],
+          "ourBehinds": [
+            {
+              "playerId": "17777759506480.22123042294747297",
+              "time": 1782617199909
+            }
+          ],
+          "oppGoals": 2,
+          "oppBehinds": 0
+        },
+        "Q3": {
+          "ourGoals": [
+            {
+              "playerId": "17777759506480.5082022359632777",
+              "time": 1782618302758
+            },
+            {
+              "playerId": "17777759506480.22123042294747297",
+              "time": 1782618357858
+            },
+            {
+              "playerId": "17777759506480.1972750939203154",
+              "time": 1782618694752
+            }
+          ],
+          "ourBehinds": [
+            {
+              "playerId": "17777759506480.32114386898912717",
+              "time": 1782618602933
+            }
+          ],
+          "oppGoals": 1,
+          "oppBehinds": 1
+        },
+        "Q4": {
+          "ourGoals": [
+            {
+              "playerId": "17777759506480.6580832729364764",
+              "time": 1782619098149
+            },
+            {
+              "playerId": "17777759506480.5082022359632777",
+              "time": 1782619521531
+            },
+            {
+              "playerId": "17777759506480.22123042294747297",
+              "time": 1782619585894
+            },
+            {
+              "playerId": "17777759506480.22123042294747297",
+              "time": 1782619662906
+            }
+          ],
+          "ourBehinds": [
+            {
+              "playerId": "17777759506480.1972750939203154",
+              "time": 1782619124552
+            },
+            {
+              "playerId": "17777759506480.989597482238926",
+              "time": 1782619180242
+            },
+            {
+              "playerId": "17777759506480.989597482238926",
+              "time": 1782619345712
+            },
+            {
+              "playerId": "17777759506480.989597482238926",
+              "time": 1782619426028
+            },
+            {
+              "playerId": "17777759506480.22123042294747297",
+              "time": 1782619512225
+            },
+            {
+              "playerId": "17777759506480.1972750939203154",
+              "time": 1782619847643
+            }
+          ],
+          "oppGoals": 3,
+          "oppBehinds": 1
+        }
+      },
+      "playersOfMatch": [
+        "17777759506480.872916749837853",
+        "17777759506480.22123042294747297"
+      ],
+      "matchNotes": ""
     }
   ],
-  "_syncedAt": "2026-06-28T04:18:17.145Z",
+  "_syncedAt": "2026-06-28T04:18:45.900Z",
   "_version": 2
 }
