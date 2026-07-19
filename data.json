@@ -1302,8 +1302,163 @@
       ],
       "matchNotes": "",
       "narrative": "The Zebbies dominated Mordi-Brae with a commanding 56-point victory, powered by Ashton Fletcher's brilliant six-goal haul and Xavier McCabe's stellar performance earning them both Players of the Match honours. The midfield fired with 16 clearances—almost double our season average—while 34 handballs received showed exceptional ball movement throughout the game. Fletcher led a potent forward line that also featured three goals from Noah Jackson and two from Lachlan Luckoff in an impressive team display."
+    },
+    {
+      "id": 1782620323899,
+      "round": "11",
+      "opposition": "Bentleigh Demons",
+      "date": "2026-07-19",
+      "locked": false,
+      "ourG": 14,
+      "ourB": 11,
+      "oppG": 1,
+      "oppB": 5,
+      "stats": {
+        "clearances": 16,
+        "handballs": 31,
+        "tackles": 46
+      },
+      "quarters": {
+        "Q1": {
+          "ourGoals": [
+            {
+              "playerId": "17777759506480.9307777549906513",
+              "time": 1784428505067
+            },
+            {
+              "playerId": "17820041350770.057592704430634245",
+              "time": 1784428877731
+            },
+            {
+              "playerId": "17777759506480.9781375267238763",
+              "time": 1784429100382
+            }
+          ],
+          "ourBehinds": [
+            {
+              "playerId": "17777759506480.20333225350412232",
+              "time": 1784428284818
+            },
+            {
+              "playerId": "17777759506480.7249902236152644",
+              "time": 1784428365309
+            },
+            {
+              "playerId": "17777759506480.20333225350412232",
+              "time": 1784428706639
+            }
+          ],
+          "oppGoals": 0,
+          "oppBehinds": 2
+        },
+        "Q2": {
+          "ourGoals": [
+            {
+              "playerId": "17777759506480.12377837779926615",
+              "time": 1784429838269
+            },
+            {
+              "playerId": "17777759506480.22123042294747297",
+              "time": 1784429952838
+            },
+            {
+              "playerId": "17777759506480.5082022359632777",
+              "time": 1784430095314
+            }
+          ],
+          "ourBehinds": [
+            {
+              "playerId": "17777759506480.5082022359632777",
+              "time": 1784429986494
+            },
+            {
+              "playerId": "17777759506480.22123042294747297",
+              "time": 1784430023891
+            },
+            {
+              "playerId": "17777759506480.12377837779926615",
+              "time": 1784430060110
+            },
+            {
+              "playerId": "17777759506480.7249902236152644",
+              "time": 1784430193695
+            }
+          ],
+          "oppGoals": 0,
+          "oppBehinds": 1
+        },
+        "Q3": {
+          "ourGoals": [
+            {
+              "playerId": "17777759506480.5082022359632777",
+              "time": 1784430915985
+            },
+            {
+              "playerId": "17777759506480.20333225350412232",
+              "time": 1784431262111
+            },
+            {
+              "playerId": "17777759506480.5082022359632777",
+              "time": 1784431580188
+            }
+          ],
+          "ourBehinds": [
+            {
+              "playerId": "17777759506480.5082022359632777",
+              "time": 1784431029235
+            },
+            {
+              "playerId": "17777759506480.989597482238926",
+              "time": 1784431505126
+            }
+          ],
+          "oppGoals": 1,
+          "oppBehinds": 1
+        },
+        "Q4": {
+          "ourGoals": [
+            {
+              "playerId": "17777759506480.6580832729364764",
+              "time": 1784432138770
+            },
+            {
+              "playerId": "17777759506480.5082022359632777",
+              "time": 1784432209261
+            },
+            {
+              "playerId": "17777759506480.6580832729364764",
+              "time": 1784432397889
+            },
+            {
+              "playerId": "17777759506480.22123042294747297",
+              "time": 1784432568384
+            },
+            {
+              "playerId": "17777759506480.989597482238926",
+              "time": 1784432711170
+            }
+          ],
+          "ourBehinds": [
+            {
+              "playerId": "17777759506480.22123042294747297",
+              "time": 1784432090250
+            },
+            {
+              "playerId": "17777759506480.6580832729364764",
+              "time": 1784432468792
+            }
+          ],
+          "oppGoals": 0,
+          "oppBehinds": 1
+        }
+      },
+      "playersOfMatch": [
+        "17777759506480.27801312083101903",
+        "17777759506480.872916749837853"
+      ],
+      "matchNotes": "Ashton second effort \nMorris - great Shepard for Noah to have a shot\nAri - great smother"
     }
   ],
-  "_syncedAt": "2026-07-19T03:57:45.126Z",
+  "_syncedAt": "2026-07-19T03:57:59.436Z",
   "_version": 2
 }
