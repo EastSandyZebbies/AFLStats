@@ -1458,8 +1458,162 @@
       ],
       "matchNotes": "Ashton second effort \nMorris - great Shepard for Noah to have a shot\nAri - great smother",
       "narrative": "The Zebbies absolutely dominated Bentleigh with a stunning 84-point victory, powered by Noah Jackson's four-goal haul and brilliant performances from Lewis Brauer and Xavier McCabe who were outstanding all day. The midfield turned up the pressure with 46 tackles—nearly double our season average—while our clearance work (16 versus our usual 10) and handball movement (31 received compared to 20 average) had the Demons scrambling. Ashton Fletcher and Fin Buttlin chipped in with two goals each in a complete team performance."
+    },
+    {
+      "id": 1784433477435,
+      "round": "12",
+      "opposition": "Prahran JFC",
+      "date": "2026-07-26",
+      "locked": false,
+      "ourG": 17,
+      "ourB": 10,
+      "oppG": 0,
+      "oppB": 1,
+      "stats": {
+        "clearances": 16,
+        "handballs": 27,
+        "tackles": 24
+      },
+      "quarters": {
+        "Q1": {
+          "ourGoals": [
+            {
+              "playerId": "17777759506480.1972750939203154",
+              "time": 1785017984895
+            },
+            {
+              "playerId": "17777759506480.12377837779926615",
+              "time": 1785018080374
+            },
+            {
+              "playerId": "17777759506480.20333225350412232",
+              "time": 1785018172374
+            },
+            {
+              "playerId": "17777759506480.20333225350412232",
+              "time": 1785018331596
+            },
+            {
+              "playerId": "17777759506480.12377837779926615",
+              "time": 1785018613337
+            }
+          ],
+          "ourBehinds": [
+            {
+              "playerId": "17777759506480.6659395696248108",
+              "time": 1785018725892
+            }
+          ],
+          "oppGoals": 0,
+          "oppBehinds": 0,
+          "ourRushBehinds": 1
+        },
+        "Q2": {
+          "ourGoals": [
+            {
+              "playerId": "17777759506480.2571649886513061",
+              "time": 1785019151287
+            },
+            {
+              "playerId": "17777759506480.20333225350412232",
+              "time": 1785019488312
+            },
+            {
+              "playerId": "17777759506480.5082022359632777",
+              "time": 1785019849457
+            },
+            {
+              "playerId": "17777759506480.20333225350412232",
+              "time": 1785019952879
+            },
+            {
+              "playerId": "17777759506480.872916749837853",
+              "time": 1785021526270
+            }
+          ],
+          "ourBehinds": [
+            {
+              "playerId": "17777759506480.5082022359632777",
+              "time": 1785019116913
+            },
+            {
+              "playerId": "17777759506480.2571649886513061",
+              "time": 1785019726726
+            },
+            {
+              "playerId": "17777759506480.5082022359632777",
+              "time": 1785019826701
+            }
+          ],
+          "oppGoals": 0,
+          "oppBehinds": 0
+        },
+        "Q3": {
+          "ourGoals": [
+            {
+              "playerId": "17777759506480.6580832729364764",
+              "time": 1785020524673
+            },
+            {
+              "playerId": "17777759506480.2571649886513061",
+              "time": 1785021048745
+            },
+            {
+              "playerId": "17777759506480.15522287379614486",
+              "time": 1785021361100
+            }
+          ],
+          "ourBehinds": [
+            {
+              "playerId": "17777759506480.6374156614511336",
+              "time": 1785020441151
+            }
+          ],
+          "oppGoals": 0,
+          "oppBehinds": 1,
+          "ourRushBehinds": 1
+        },
+        "Q4": {
+          "ourGoals": [
+            {
+              "playerId": "17777759506480.22123042294747297",
+              "time": 1785021876118
+            },
+            {
+              "playerId": "17777759506480.6580832729364764",
+              "time": 1785022113233
+            },
+            {
+              "playerId": "17777759506480.20333225350412232",
+              "time": 1785022258205
+            },
+            {
+              "playerId": "17777759506480.22123042294747297",
+              "time": 1785022357817
+            }
+          ],
+          "ourBehinds": [
+            {
+              "playerId": "17777759506480.6580832729364764",
+              "time": 1785022073871
+            },
+            {
+              "playerId": "17777759506480.9307777549906513",
+              "time": 1785022504471
+            }
+          ],
+          "oppGoals": 0,
+          "oppBehinds": 0,
+          "ourRushBehinds": 1
+        }
+      },
+      "playersOfMatch": [
+        "17777759506480.20333225350412232",
+        "17777759506480.6374156614511336"
+      ],
+      "matchNotes": "Marks have been dominant in the first quarter"
     }
   ],
-  "_syncedAt": "2026-07-25T23:47:08.834Z",
+  "_syncedAt": "2026-07-25T23:47:25.497Z",
   "_version": 2
 }
