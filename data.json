@@ -1613,8 +1613,143 @@
       ],
       "matchNotes": "Marks have been dominant in the first quarter",
       "narrative": "What an absolute masterclass from the Zebbies, demolishing Prahran by 111 points in a performance that saw us dominate from the opening bounce! Morris Finch was unstoppable up forward with five goals to lead our best-on-ground performance, while Raphael Knight was instrumental in helping the team rack up 16 clearances—well above our season average of 11. With 27 handballs received compared to our usual 21, the boys moved the ball beautifully all day in a victory that showcases just how far this group has come."
+    },
+    {
+      "id": 1785023237494,
+      "round": "13",
+      "opposition": "Beaumaris Sharks",
+      "date": "2026-08-02",
+      "locked": false,
+      "ourG": 7,
+      "ourB": 12,
+      "oppG": 0,
+      "oppB": 0,
+      "stats": {
+        "clearances": 11,
+        "handballs": 23,
+        "tackles": 43
+      },
+      "quarters": {
+        "Q1": {
+          "ourGoals": [
+            {
+              "playerId": "17777759506480.1972750939203154",
+              "time": 1785623713846
+            },
+            {
+              "playerId": "17777759506480.5082022359632777",
+              "time": 1785624343177
+            }
+          ],
+          "ourBehinds": [
+            {
+              "playerId": "17777759506480.1972750939203154",
+              "time": 1785623759767
+            }
+          ],
+          "ourRushBehinds": 0,
+          "oppGoals": 0,
+          "oppBehinds": 0,
+          "oppRushBehinds": 0
+        },
+        "Q2": {
+          "ourGoals": [
+            {
+              "playerId": "17777759506480.9307777549906513",
+              "time": 1785625336467
+            }
+          ],
+          "ourBehinds": [
+            {
+              "playerId": "17777759506480.1972750939203154",
+              "time": 1785625457253
+            },
+            {
+              "playerId": "17777759506480.22123042294747297",
+              "time": 1785625481541
+            }
+          ],
+          "ourRushBehinds": 1,
+          "oppGoals": 0,
+          "oppBehinds": 0,
+          "oppRushBehinds": 0
+        },
+        "Q3": {
+          "ourGoals": [
+            {
+              "playerId": "17777759506480.7249902236152644",
+              "time": 1785626569293
+            }
+          ],
+          "ourBehinds": [
+            {
+              "playerId": "17777759506480.22123042294747297",
+              "time": 1785626147606
+            },
+            {
+              "playerId": "17777759506480.1972750939203154",
+              "time": 1785626262763
+            },
+            {
+              "playerId": "17777759506480.7249902236152644",
+              "time": 1785626502964
+            },
+            {
+              "playerId": "17777759506480.5082022359632777",
+              "time": 1785626526302
+            }
+          ],
+          "ourRushBehinds": 0,
+          "oppGoals": 0,
+          "oppBehinds": 0,
+          "oppRushBehinds": 0
+        },
+        "Q4": {
+          "ourGoals": [
+            {
+              "playerId": "17777759506480.4918516835515907",
+              "time": 1785627280938
+            },
+            {
+              "playerId": "17777759506480.20333225350412232",
+              "time": 1785627500043
+            },
+            {
+              "playerId": "17777759506480.22123042294747297",
+              "time": 1785628090935
+            }
+          ],
+          "ourBehinds": [
+            {
+              "playerId": "17777759506480.32114386898912717",
+              "time": 1785627347833
+            },
+            {
+              "playerId": "17777759506480.1972750939203154",
+              "time": 1785627421863
+            },
+            {
+              "playerId": "17777759506480.20333225350412232",
+              "time": 1785627562617
+            },
+            {
+              "playerId": "17777759506480.1972750939203154",
+              "time": 1785627954537
+            }
+          ],
+          "ourRushBehinds": 0,
+          "oppGoals": 0,
+          "oppBehinds": 0,
+          "oppRushBehinds": 0
+        }
+      },
+      "playersOfMatch": [
+        "17777759506480.989597482238926",
+        "17777759506480.7249902236152644"
+      ],
+      "matchNotes": ""
     }
   ],
-  "_syncedAt": "2026-08-01T23:55:24.467Z",
+  "_syncedAt": "2026-08-01T23:58:17.042Z",
   "_version": 2
 }
