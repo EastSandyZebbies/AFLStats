@@ -1749,8 +1749,130 @@
       ],
       "matchNotes": "",
       "narrative": "The Zebbies dominated from start to finish, keeping Beaumaris scoreless in an emphatic 54-point victory! Nate Dooley and Hudson Schmidt were outstanding across the ground, while the team's defensive pressure reached new heights with a season-high 43 tackles—well above our usual 25. Goals were shared around beautifully, with Lachlan Luckoff, Noah Jackson, and Michael Daly among seven different goal-kickers in a true team performance."
+    },
+    {
+      "id": 1785628689037,
+      "round": "14",
+      "opposition": "St Peter’s FC",
+      "date": "2026-08-09",
+      "locked": false,
+      "ourG": 6,
+      "ourB": 9,
+      "oppG": 4,
+      "oppB": 5,
+      "stats": {
+        "clearances": 10,
+        "handballs": 21,
+        "tackles": 26
+      },
+      "quarters": {
+        "Q1": {
+          "ourGoals": [],
+          "ourBehinds": [
+            {
+              "playerId": "17777759506480.15522287379614486",
+              "time": 1786230981807
+            },
+            {
+              "playerId": "17777759506480.6659395696248108",
+              "time": 1786231066561
+            },
+            {
+              "playerId": "17777759506480.22123042294747297",
+              "time": 1786231376730
+            },
+            {
+              "playerId": "17777759506480.5082022359632777",
+              "time": 1786231626134
+            },
+            {
+              "playerId": "17777759506480.6659395696248108",
+              "time": 1786231708197
+            },
+            {
+              "playerId": "17777759506480.5082022359632777",
+              "time": 1786231774944
+            }
+          ],
+          "ourRushBehinds": 0,
+          "oppGoals": 0,
+          "oppBehinds": 0,
+          "oppRushBehinds": 0
+        },
+        "Q2": {
+          "ourGoals": [
+            {
+              "playerId": "17777759506480.5082022359632777",
+              "time": 1786232635943
+            },
+            {
+              "playerId": "17777759506480.1972750939203154",
+              "time": 1786232781816
+            },
+            {
+              "playerId": "17777759506480.20333225350412232",
+              "time": 1786232852080
+            }
+          ],
+          "ourBehinds": [
+            {
+              "playerId": "17777759506480.872916749837853",
+              "time": 1786232794144
+            }
+          ],
+          "ourRushBehinds": 0,
+          "oppGoals": 3,
+          "oppBehinds": 2,
+          "oppRushBehinds": 0
+        },
+        "Q3": {
+          "ourGoals": [
+            {
+              "playerId": "17777759506480.5082022359632777",
+              "time": 1786233572274
+            },
+            {
+              "playerId": "17777759506480.5082022359632777",
+              "time": 1786234210821
+            }
+          ],
+          "ourBehinds": [
+            {
+              "playerId": "17777759506480.24864956051033837",
+              "time": 1786234166718
+            }
+          ],
+          "ourRushBehinds": 0,
+          "oppGoals": 1,
+          "oppBehinds": 0,
+          "oppRushBehinds": 1
+        },
+        "Q4": {
+          "ourGoals": [
+            {
+              "playerId": "17777759506480.6659395696248108",
+              "time": 1786234837010
+            }
+          ],
+          "ourBehinds": [
+            {
+              "playerId": "17777759506480.989597482238926",
+              "time": 1786235164771
+            }
+          ],
+          "ourRushBehinds": 0,
+          "oppGoals": 0,
+          "oppBehinds": 2,
+          "oppRushBehinds": 0
+        }
+      },
+      "playersOfMatch": [
+        "17777759506480.12377837779926615",
+        "17777759506480.9307777549906513"
+      ],
+      "matchNotes": ""
     }
   ],
-  "_syncedAt": "2026-08-09T00:42:32.507Z",
+  "_syncedAt": "2026-08-09T00:42:50.599Z",
   "_version": 2
 }
