@@ -1872,8 +1872,163 @@
       ],
       "matchNotes": "",
       "narrative": "The Zebbies ground out a tough 16-point victory over St Peter's, with Noah Jackson's three-goal haul proving the difference in a scrappy contest. While our numbers were slightly down across the board—clearances, handballs received, and tackles all sitting one below our season averages—the defensive efforts of Players of the Match Tom Buck and Michael Daly helped secure the win when it mattered most. Lachlan Luckoff and Morris Finch each chipped in with important goals in what was a genuine team effort."
+    },
+    {
+      "id": 1786236162597,
+      "round": "15",
+      "opposition": "Brighton Beach",
+      "date": "2026-08-16",
+      "locked": false,
+      "ourG": 13,
+      "ourB": 14,
+      "oppG": 3,
+      "oppB": 4,
+      "stats": {
+        "clearances": 19,
+        "handballs": 31,
+        "tackles": 24
+      },
+      "quarters": {
+        "Q1": {
+          "ourGoals": [
+            {
+              "playerId": "17777759506480.5082022359632777",
+              "time": 1786840264352
+            },
+            {
+              "playerId": "17777759506480.20333225350412232",
+              "time": 1786840596512
+            },
+            {
+              "playerId": "17777759506480.12377837779926615",
+              "time": 1786840700490
+            },
+            {
+              "playerId": "17777759506480.22123042294747297",
+              "time": 1786841044414
+            }
+          ],
+          "ourBehinds": [
+            {
+              "playerId": "17777759506480.20333225350412232",
+              "time": 1786840958628
+            }
+          ],
+          "ourRushBehinds": 0,
+          "oppGoals": 0,
+          "oppBehinds": 1,
+          "oppRushBehinds": 0
+        },
+        "Q2": {
+          "ourGoals": [
+            {
+              "playerId": "17777759506480.2571649886513061",
+              "time": 1786841516965
+            },
+            {
+              "playerId": "17777759506480.22123042294747297",
+              "time": 1786841776184
+            },
+            {
+              "playerId": "17777759506480.5082022359632777",
+              "time": 1786841818558
+            },
+            {
+              "playerId": "17777759506480.9781375267238763",
+              "time": 1786842086306
+            }
+          ],
+          "ourBehinds": [
+            {
+              "playerId": "17777759506480.20333225350412232",
+              "time": 1786841632402
+            },
+            {
+              "playerId": "17777759506480.20333225350412232",
+              "time": 1786841950345
+            },
+            {
+              "playerId": "17777759506480.7249902236152644",
+              "time": 1786842237626
+            }
+          ],
+          "ourRushBehinds": 3,
+          "oppGoals": 1,
+          "oppBehinds": 0,
+          "oppRushBehinds": 0
+        },
+        "Q3": {
+          "ourGoals": [
+            {
+              "playerId": "17777759506480.5082022359632777",
+              "time": 1786842872749
+            },
+            {
+              "playerId": "17777759506480.5082022359632777",
+              "time": 1786842978339
+            },
+            {
+              "playerId": "17777759506480.20333225350412232",
+              "time": 1786843682463
+            }
+          ],
+          "ourBehinds": [
+            {
+              "playerId": "17777759506480.12377837779926615",
+              "time": 1786842943334
+            },
+            {
+              "playerId": "17777759506480.12377837779926615",
+              "time": 1786843108067
+            },
+            {
+              "playerId": "17777759506480.7249902236152644",
+              "time": 1786843138844
+            }
+          ],
+          "ourRushBehinds": 0,
+          "oppGoals": 1,
+          "oppBehinds": 0,
+          "oppRushBehinds": 0
+        },
+        "Q4": {
+          "ourGoals": [
+            {
+              "playerId": "17777759506480.5082022359632777",
+              "time": 1786844119755
+            },
+            {
+              "playerId": "17777759506480.989597482238926",
+              "time": 1786844265808
+            }
+          ],
+          "ourBehinds": [
+            {
+              "playerId": "17777759506480.5082022359632777",
+              "time": 1786844087685
+            },
+            {
+              "playerId": "17777759506480.22123042294747297",
+              "time": 1786844534243
+            },
+            {
+              "playerId": "17777759506480.1972750939203154",
+              "time": 1786844719928
+            }
+          ],
+          "ourRushBehinds": 1,
+          "oppGoals": 1,
+          "oppBehinds": 3,
+          "oppRushBehinds": 0
+        }
+      },
+      "playersOfMatch": [
+        "17777759506480.24864956051033837",
+        "17777759506480.1972750939203154"
+      ],
+      "matchNotes": ""
     }
   ],
-  "_syncedAt": "2026-08-16T01:58:55.549Z",
+  "_syncedAt": "2026-08-16T01:59:17.040Z",
   "_version": 2
 }
