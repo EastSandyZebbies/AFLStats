@@ -2032,13 +2032,13 @@
     {
       "id": 1786845549037,
       "round": "Semi Final",
-      "opposition": "SF - East Brighton Vampires",
+      "opposition": "East Brighton Vampires",
       "date": "2026-08-23",
       "locked": false,
       "ourG": 5,
       "ourB": 5,
       "oppG": 4,
-      "oppB": 4,
+      "oppB": 7,
       "stats": {
         "clearances": 14,
         "handballs": 12,
@@ -2113,7 +2113,7 @@
           "ourGoals": [],
           "ourBehinds": [],
           "oppGoals": 2,
-          "oppBehinds": 3
+          "oppBehinds": 6
         }
       },
       "playersOfMatch": [
@@ -2124,6 +2124,6 @@
       "narrative": "The Zebbies held their nerve in a thriller against East Brighton, with Patrick Whelan and Jake Lansdown outstanding in a gutsy four-point victory. Morris Finch and Aidan Lynch booted two goals each while the midfield lifted when it mattered most, winning 14 clearances (up from their season average of 11) to control crucial moments. The win came despite fewer tackles and handballs received than usual, showing real maturity under finals-like pressure."
     }
   ],
-  "_syncedAt": "2026-08-23T09:19:41.140Z",
+  "_syncedAt": "2026-08-23T09:22:21.862Z",
   "_version": 2
 }
