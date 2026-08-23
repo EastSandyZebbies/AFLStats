@@ -2028,8 +2028,109 @@
       ],
       "matchNotes": "",
       "narrative": "The Zebbies dominated Brighton Beach with a commanding 70-point victory, powered by Noah Jackson's spectacular five-goal haul and strong support from Morris Finch and Ashton Fletcher with two goals each. The midfield was absolutely firing, winning 19 clearances—eight more than our usual output—while Ari Gauldin and Lachlan Luckoff were outstanding across the ground to earn best-on-ground honours. With 31 handballs received showing excellent ball movement, this was a complete team performance that has us primed for finals."
+    },
+    {
+      "id": 1786845549037,
+      "round": "16",
+      "opposition": "SF - East Brighton Vampires",
+      "date": "2026-08-23",
+      "locked": false,
+      "ourG": 5,
+      "ourB": 5,
+      "oppG": 4,
+      "oppB": 7,
+      "stats": {
+        "clearances": 14,
+        "handballs": 12,
+        "tackles": 17
+      },
+      "quarters": {
+        "Q1": {
+          "ourGoals": [
+            {
+              "playerId": "17777759506480.38053891124791084",
+              "time": 1787438155598
+            },
+            {
+              "playerId": "17777759506480.20333225350412232",
+              "time": 1787438509061
+            }
+          ],
+          "ourBehinds": [
+            {
+              "playerId": "17777759506480.5082022359632777",
+              "time": 1787438000003
+            },
+            {
+              "playerId": "17777759506480.2571649886513061",
+              "time": 1787438088734
+            },
+            {
+              "playerId": "17777759506480.5082022359632777",
+              "time": 1787438404043
+            }
+          ],
+          "ourRushBehinds": 0,
+          "oppGoals": 1,
+          "oppBehinds": 0,
+          "oppRushBehinds": 2
+        },
+        "Q2": {
+          "ourGoals": [
+            {
+              "playerId": "17777759506480.20333225350412232",
+              "time": 1787439772936
+            }
+          ],
+          "ourBehinds": [
+            {
+              "playerId": "17777759506480.12377837779926615",
+              "time": 1787439681994
+            }
+          ],
+          "ourRushBehinds": 0,
+          "oppGoals": 1,
+          "oppBehinds": 1,
+          "oppRushBehinds": 1
+        },
+        "Q3": {
+          "ourGoals": [
+            {
+              "playerId": "17777759506480.2571649886513061",
+              "time": 1787440613239
+            },
+            {
+              "playerId": "17777759506480.2571649886513061",
+              "time": 1787441269605
+            }
+          ],
+          "ourBehinds": [
+            {
+              "playerId": "17777759506480.20333225350412232",
+              "time": 1787440517854
+            }
+          ],
+          "ourRushBehinds": 0,
+          "oppGoals": 0,
+          "oppBehinds": 0,
+          "oppRushBehinds": 0
+        },
+        "Q4": {
+          "ourGoals": [],
+          "ourBehinds": [],
+          "ourRushBehinds": 0,
+          "oppGoals": 2,
+          "oppBehinds": 3,
+          "oppRushBehinds": 0
+        }
+      },
+      "playersOfMatch": [
+        "17777759506480.6659395696248108",
+        "17777759506480.15522287379614486"
+      ],
+      "matchNotes": ""
     }
   ],
-  "_syncedAt": "2026-08-23T00:05:39.146Z",
+  "_syncedAt": "2026-08-23T00:06:03.540Z",
   "_version": 2
 }
