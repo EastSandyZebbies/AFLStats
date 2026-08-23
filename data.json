@@ -2031,14 +2031,14 @@
     },
     {
       "id": 1786845549037,
-      "round": "16",
+      "round": "Semi Final",
       "opposition": "SF - East Brighton Vampires",
       "date": "2026-08-23",
       "locked": false,
       "ourG": 5,
       "ourB": 5,
       "oppG": 4,
-      "oppB": 7,
+      "oppB": 4,
       "stats": {
         "clearances": 14,
         "handballs": 12,
@@ -2048,80 +2048,72 @@
         "Q1": {
           "ourGoals": [
             {
-              "playerId": "17777759506480.38053891124791084",
-              "time": 1787438155598
+              "id": 1787475539471.6267,
+              "playerId": "17777759506480.38053891124791084"
             },
             {
-              "playerId": "17777759506480.20333225350412232",
-              "time": 1787438509061
+              "id": 1787475539471.712,
+              "playerId": "17777759506480.20333225350412232"
             }
           ],
           "ourBehinds": [
             {
-              "playerId": "17777759506480.5082022359632777",
-              "time": 1787438000003
+              "id": 1787475539471.8457,
+              "playerId": "17777759506480.5082022359632777"
             },
             {
-              "playerId": "17777759506480.2571649886513061",
-              "time": 1787438088734
+              "id": 1787475539471.4565,
+              "playerId": "17777759506480.2571649886513061"
             },
             {
-              "playerId": "17777759506480.5082022359632777",
-              "time": 1787438404043
+              "id": 1787475539471.5298,
+              "playerId": "17777759506480.5082022359632777"
             }
           ],
-          "ourRushBehinds": 0,
           "oppGoals": 1,
-          "oppBehinds": 0,
-          "oppRushBehinds": 2
+          "oppBehinds": 0
         },
         "Q2": {
           "ourGoals": [
             {
-              "playerId": "17777759506480.20333225350412232",
-              "time": 1787439772936
+              "id": 1787475539471.029,
+              "playerId": "17777759506480.20333225350412232"
             }
           ],
           "ourBehinds": [
             {
-              "playerId": "17777759506480.12377837779926615",
-              "time": 1787439681994
+              "id": 1787475539471.9214,
+              "playerId": "17777759506480.12377837779926615"
             }
           ],
-          "ourRushBehinds": 0,
           "oppGoals": 1,
-          "oppBehinds": 1,
-          "oppRushBehinds": 1
+          "oppBehinds": 1
         },
         "Q3": {
           "ourGoals": [
             {
-              "playerId": "17777759506480.2571649886513061",
-              "time": 1787440613239
+              "id": 1787475539471.4187,
+              "playerId": "17777759506480.2571649886513061"
             },
             {
-              "playerId": "17777759506480.2571649886513061",
-              "time": 1787441269605
+              "id": 1787475539471.3398,
+              "playerId": "17777759506480.2571649886513061"
             }
           ],
           "ourBehinds": [
             {
-              "playerId": "17777759506480.20333225350412232",
-              "time": 1787440517854
+              "id": 1787475539471.7368,
+              "playerId": "17777759506480.20333225350412232"
             }
           ],
-          "ourRushBehinds": 0,
           "oppGoals": 0,
-          "oppBehinds": 0,
-          "oppRushBehinds": 0
+          "oppBehinds": 0
         },
         "Q4": {
           "ourGoals": [],
           "ourBehinds": [],
-          "ourRushBehinds": 0,
           "oppGoals": 2,
-          "oppBehinds": 3,
-          "oppRushBehinds": 0
+          "oppBehinds": 3
         }
       },
       "playersOfMatch": [
@@ -2132,6 +2124,6 @@
       "narrative": "The Zebbies held their nerve in a thriller against East Brighton, with Patrick Whelan and Jake Lansdown outstanding in a gutsy four-point victory. Morris Finch and Aidan Lynch booted two goals each while the midfield lifted when it mattered most, winning 14 clearances (up from their season average of 11) to control crucial moments. The win came despite fewer tackles and handballs received than usual, showing real maturity under finals-like pressure."
     }
   ],
-  "_syncedAt": "2026-08-23T08:58:58.800Z",
+  "_syncedAt": "2026-08-23T08:59:20.759Z",
   "_version": 2
 }
