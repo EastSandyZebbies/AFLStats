@@ -2122,8 +2122,111 @@
       ],
       "matchNotes": "",
       "narrative": "The Zebbies held their nerve in a thriller against East Brighton, with Patrick Whelan and Jake Lansdown outstanding in a gutsy four-point victory. Morris Finch and Aidan Lynch booted two goals each while the midfield lifted when it mattered most, winning 14 clearances (up from their season average of 11) to control crucial moments. The win came despite fewer tackles and handballs received than usual, showing real maturity under finals-like pressure."
+    },
+    {
+      "id": 1787443555539,
+      "round": "Grand Final",
+      "opposition": "Brighton Beach ",
+      "date": "2026-08-30",
+      "locked": false,
+      "ourG": 3,
+      "ourB": 8,
+      "oppG": 6,
+      "oppB": 3,
+      "stats": {
+        "clearances": 10,
+        "handballs": 3,
+        "tackles": 19
+      },
+      "quarters": {
+        "Q1": {
+          "ourGoals": [
+            {
+              "playerId": "17777759506480.20333225350412232",
+              "time": 1788047643174
+            }
+          ],
+          "ourBehinds": [],
+          "ourRushBehinds": 0,
+          "oppGoals": 3,
+          "oppBehinds": 1,
+          "oppRushBehinds": 0
+        },
+        "Q2": {
+          "ourGoals": [
+            {
+              "playerId": "17777759506480.20333225350412232",
+              "time": 1788048839916
+            }
+          ],
+          "ourBehinds": [
+            {
+              "playerId": "17777759506480.20333225350412232",
+              "time": 1788048539816
+            },
+            {
+              "playerId": "17777759506480.4918516835515907",
+              "time": 1788048644162
+            }
+          ],
+          "ourRushBehinds": 0,
+          "oppGoals": 1,
+          "oppBehinds": 1,
+          "oppRushBehinds": 0
+        },
+        "Q3": {
+          "ourGoals": [
+            {
+              "playerId": "17777759506480.5082022359632777",
+              "time": 1788050355011
+            }
+          ],
+          "ourBehinds": [
+            {
+              "playerId": "17777759506480.20333225350412232",
+              "time": 1788050228201
+            },
+            {
+              "playerId": "17777759506480.22123042294747297",
+              "time": 1788050319704
+            }
+          ],
+          "ourRushBehinds": 0,
+          "oppGoals": 1,
+          "oppBehinds": 0,
+          "oppRushBehinds": 0
+        },
+        "Q4": {
+          "ourGoals": [],
+          "ourBehinds": [
+            {
+              "playerId": "17777759506480.22123042294747297",
+              "time": 1788050738235
+            },
+            {
+              "playerId": "17777759506480.989597482238926",
+              "time": 1788051174070
+            },
+            {
+              "playerId": "17777759506480.4918516835515907",
+              "time": 1788051506589
+            }
+          ],
+          "ourRushBehinds": 1,
+          "oppGoals": 1,
+          "oppBehinds": 1,
+          "oppRushBehinds": 0
+        }
+      },
+      "playersOfMatch": [
+        "17777759506480.5082022359632777",
+        "17777759506480.989597482238926",
+        "17777759506480.20333225350412232",
+        "17777759506480.38053891124791084"
+      ],
+      "matchNotes": ""
     }
   ],
-  "_syncedAt": "2026-08-30T01:23:37.741Z",
+  "_syncedAt": "2026-08-30T01:24:59.570Z",
   "_version": 2
 }
